@@ -1,1 +1,1 @@
-puts 'hello world, emily'
+puts 24*365
