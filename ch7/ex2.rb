@@ -1,8 +1,15 @@
+var = 1
 while true
   puts "What would you like to ask Grandma?"
   question = gets.chomp
   if question == 'BYE'
-	break
+	if var == 3
+		break
+	else
+	var = var+1
+	end
+  else
+   var = 1
   end
   if question == question.upcase
   puts "NO, NOT SINCE 1938!"
