@@ -1,8 +1,7 @@
 word =[]
+puts "Enter any words"
 8.times do
- puts "Enter any words"
  word.push(gets.chomp)
+end
  puts
  puts word.sort
-end
- 
