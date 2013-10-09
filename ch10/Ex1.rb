@@ -15,6 +15,12 @@
  teenagers = ['eleven',		'twelve',	'thirteen',
               'fourteen',	'fifteen',	'sixteen',
 			  'seventeen',	'eighteen',	'nineteen']
+ hundreds_places = ['one hundred', 'two hundred',  'three hundred',
+             'four hundred', 'five hundred', 'six hundred',
+			 'seven hundred', 'eight hundred', 'nine hundred']
+ thousands_placesy = ['one thousand', 'two thousand', 'three thousand',
+              'four thousand', 'five thousand', 'six thousand',
+			  'seven thousand', 'eight thousand', 'nine thousand']
  
  left = number
  write = left/100
